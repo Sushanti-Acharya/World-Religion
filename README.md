@@ -2,7 +2,7 @@
 <html>
 <head>
 	
-	<title>World Religion Population</title>
+	
 </head>
 <body>
 <h2>&nbsp;<a href="https://www.dbs.ie/"><img alt="" src="https://debi0509.github.io/logo.jpg" style="width: 210px; height: 137px;" /></a></h2>
