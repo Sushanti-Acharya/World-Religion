@@ -33,7 +33,7 @@
 
 <p>This dataset contains details about the segmentation of the world population based on the religion.</p>
 
-<h1>Why is this dataset ?</h1>
+<h2>Why is this dataset ?</h2>
 
 <ul>
 	<li>Of all the 195 countries in the world, there are roughly around 4200 religions adhered by different populations.</li>
@@ -99,7 +99,7 @@
 
 <div>&nbsp;</div>
 
-<h1>Contribution of Team members:</h1>
+<h2>Contribution of Team Members:</h2>
 
 <p>The project being a group assignment, every individual invested long hours in designing and developng of visualisations. Understanding the process, deciding the dataset, finalizing the designing language were some of the initial tasks completed as a team.</p>
 
